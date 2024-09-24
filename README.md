@@ -1,5 +1,6 @@
 # PiPElineEX
 Source code of our paper "A pipeline-based approach for automated construction of geoscientific knowledge graphs.(editing)"
+Our code will be uploaded after the paper has been accepted
 
 ## Overview
 This file contains detailed code for the automation module, excluding the pre-trained models.
